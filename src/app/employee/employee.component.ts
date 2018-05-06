@@ -16,7 +16,7 @@ import { Component } from '@angular/core';
         <td>{{gender}}</td>
     </tr>
     <tr>
-        <td>Ag</td>
+        <td>Aggg</td>
         <td>{{age}}</td>
     </tr>
 </table> `
